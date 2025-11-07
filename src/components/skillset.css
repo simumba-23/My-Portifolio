@@ -1,0 +1,28 @@
+.skills-section {
+  padding: 60px 0;
+  background-color: #f8f9fa; /* light gray background */
+}
+
+.skills-title {
+  text-align: center;
+  margin-bottom: 30px;
+  font-weight: 600;
+  font-size: 2rem;
+  color: #343a40;
+}
+
+.skill-badge {
+  background-color: #6c757d !important; /* Bootstrap secondary */
+  color: #fff !important;
+  padding: 10px 18px;
+  font-size: 1rem;
+  border-radius: 30px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  transition: all 0.3s ease-in-out;
+  cursor: default;
+}
+
+.skill-badge:hover {
+  background-color: #495057 !important;
+  transform: translateY(-3px);
+}

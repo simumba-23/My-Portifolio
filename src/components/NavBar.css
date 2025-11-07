@@ -1,0 +1,26 @@
+.custom-navbar {
+  background-color: #ffffff;
+  padding: 15px 0;
+  transition: background-color 0.3s ease;
+}
+
+.custom-navbar .logo {
+  font-weight: bold;
+  font-size: 1.3rem;
+  color: #212529;
+}
+
+.custom-navbar .logo:hover {
+  color: #0d6efd; /* Bootstrap primary color */
+}
+
+.custom-navbar .nav-link {
+  font-size: 1rem;
+  margin-left: 15px;
+  color: #495057 !important;
+  transition: color 0.3s ease;
+}
+
+.custom-navbar .nav-link:hover {
+  color: #0d6efd !important;
+}
