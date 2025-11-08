@@ -1,5 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
+import profileImage from "../assets/profile-image.png"
 
 const About = () => {
   return (
@@ -11,13 +12,13 @@ const About = () => {
         
         {/* Profile Image */}
         <motion.div
-          className="w-64 h-64 rounded-full overflow-hidden flex-shrink-0"
+          className="w-64  rounded-f overflow- flex-shrink-0"
           initial={{ opacity: 0, x: -50 }}
           whileInView={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.8 }}
         >
           <img
-            src="https://via.placeholder.com/300" // replace with your profile image
+            src={profileImage} // replace with your profile image
             alt="Engneer Emansi Simumba"
             className="w-full h-full object-cover"
           />

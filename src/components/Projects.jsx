@@ -13,14 +13,14 @@ const projectData = [
   {
     title: "Waste Notification Management",
     desc: "Web app for waste reporting & role-based dashboards (React + Django templates).",
-    github: "https://github.com/emaneo/waste-management",
-    live: "",
+    github: "https://github.com/simumba-23/waste-collection-management.git",
+    live: "https://waste-collection-management-k3sf.onrender.com",
   },
   {
     title: "Digital Tool Sharing Platform",
     desc: "Mobile app for lending/borrowing tools & skills (React Native + DRF).",
-    github: "https://github.com/emaneo/tool-sharing",
-    live: "",
+    github: "https://github.com/simumba-23/Finalyear-mobile-frontend.git",
+    live: "https://frontearn.onrender.com",
   },
   {
     title: "Contribution & Pledge App",
@@ -37,8 +37,8 @@ const projectData = [
   {
     title: "Pharmacy Sales & Management",
     desc: "Web app with batch-wise sales, inventory, and reports (Django templates + React).",
-    github: "https://github.com/emaneo/pharmacy-sales",
-    live: "",
+    github: "https://github.com/simumba-23/Pharmacy-Inventory-and-Expenses-Tracking-System.git",
+    live: "https://pharmacy-inventory-and-expenses-tracking.onrender.com",
   },
 ];
 

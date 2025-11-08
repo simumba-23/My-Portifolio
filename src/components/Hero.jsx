@@ -26,7 +26,7 @@ const Hero = () => {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8 }}
       >
-        Hi, I’m Engneer Emansi Simumba
+        Hi, I’m Eng.Emansi Simumba
       </motion.h1>
 
       <motion.p
@@ -39,7 +39,8 @@ const Hero = () => {
       </motion.p>
       <span >
         <motion.a
-        href="#projects"
+        href="/Emansi Simumba resume.pdf"
+        download="Engneer_Resume.pdf"
         className="bg-indigo-600 hover:bg-indigo-700 text-white px-8 py-4 mx-3 rounded-md font-semibold shadow-lg hover:shadow-blue-500/50 transition-all duration-300"
         initial={{ opacity: 0, y: 10 }}
         animate={{ opacity: 1, y: 0 }}

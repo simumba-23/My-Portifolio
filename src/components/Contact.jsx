@@ -27,28 +27,28 @@ const Contact = () => {
           className="flex flex-col md:flex-row justify-center items-center gap-6 text-lg"
         >
           <a
-            href="mailto:emaneo.dev@example.com"
+            href="mailto:simumbaemansi20@gmail.com"
             className="flex items-center gap-2 hover:text-blue-400 transition-colors duration-300"
           >
-            <Mail size={20} /> emaneo.dev@example.com
+            <Mail size={20} /> simumbaemansi20@gmail.com
           </a>
 
           <a
-            href="https://github.com/emaneo"
+            href="https://github.com/simumba-23"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 hover:text-blue-400 transition-colors duration-300"
           >
-            <Github size={20} /> github.com/emaneo
+            <Github size={20} /> github.com/simumba-23
           </a>
 
           <a
-            href="https://linkedin.com/in/emaneo"
+            href="https://www.linkedin.com/in/emansi-simumba-3189a628a/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 hover:text-blue-400 transition-colors duration-300"
           >
-            <Linkedin size={20} /> linkedin.com/in/emaneo
+            <Linkedin size={20} /> linkedin.com/in/simumba
           </a>
         </motion.div>
 
@@ -60,7 +60,7 @@ const Contact = () => {
           className="mt-12"
         >
           <a
-            href="mailto:emaneo.dev@example.com"
+            href="mailto:simumbaemansi20@gmail.com"
             className="inline-block px-8 py-3 bg-gradient-to-r from-cyan-500 to-blue-600 rounded-full text-white font-semibold hover:scale-105 transition-transform shadow-lg hover:shadow-cyan-400/50 animate-pulse-slow"
           >
             Send a Message
