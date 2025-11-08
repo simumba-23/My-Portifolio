@@ -37,7 +37,7 @@ const Hero = () => {
       >
         Full-stack Developer | Mobile Developer | Django | React & React Native
       </motion.p>
-      <span >
+      <span className="flex">
         <motion.a
         href="/Emansi Simumba resume.pdf"
         download="Engneer_Resume.pdf"

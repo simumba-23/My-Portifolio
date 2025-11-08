@@ -10,18 +10,18 @@ const experiences = [
       "Developed web and mobile applications using Django, React, and React Native. Built REST APIs and integrated PostgreSQL and Firebase for scalable solutions.",
   },
   {
-    role: "Intern Developer",
-    company: "Vilrous Mzumbe University",
+    role: "Field Student as Intern Developer",
+    company: "Vlirous Mzumbe University",
     duration: "July 2023 - September 2023",
     description:
-      "Worked on PHP backend development, implemented authentication, and optimized database queries for performance.",
+      "Collaborated with a team to gather requirements and prepare technical documentation for the Mu-Updates tool — a platform that notifies students about university events.",
   },
   {
-    role: "Intern Developer",
-    company: "Vilrous Mzumbe University",
-    duration: "July 2022 - September 2022",
+    role: "Field Student as Intern Developer",
+    company: "Vlirous Mzumbe University",
+    duration: "August 2022 - October 2022",
     description:
-      "Assisted in developing front-end interfaces with React and maintained internal tools. Learned agile workflow and version control with Git.",
+      "Assisted in developing a Field Management System using PHP, HTML, CSS, and Bootstrap, while maintaining internal tools. Gained hands-on experience with Agile workflows and version control using Git, and received training on preparing and producing effective podcasts.",
   },
 ];
 
