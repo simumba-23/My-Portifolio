@@ -39,8 +39,8 @@ const Hero = () => {
       </motion.p>
       <span className="flex">
         <motion.a
-        href="/Emansi Simumba resume.pdf"
-        download="Engneer_Resume.pdf"
+        href="/Emansi Simumba Resume.pdf"
+        download="Emansi_Resume.pdf"
         className="bg-indigo-600 hover:bg-indigo-700 text-white px-8 py-4 mx-3 rounded-md font-semibold shadow-lg hover:shadow-blue-500/50 transition-all duration-300"
         initial={{ opacity: 0, y: 10 }}
         animate={{ opacity: 1, y: 0 }}
