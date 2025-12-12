@@ -31,7 +31,7 @@ const projectData = [
   {
     title: "Poultry ,Concrete & Truck Logistics",
     desc: "Logistics management app with inventory & delivery scheduling (React Native + Django).",
-    github: "https://github.com/emaneo/logistics-app",
+    github: "git@github.com:simumba-23/kweka_frontend.git",
     live: "https://expo.dev/accounts/20xtechnologies/projects/kweka_mobile_app/builds/5a9c58f5-eba7-4b47-a118-30c0d81d0054",
   },
   {
